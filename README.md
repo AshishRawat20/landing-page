@@ -1,2 +1,2 @@
 # landing-page
-Landing page layout using html and css
+Landing page related to a skateboarding website.
